@@ -7,7 +7,7 @@ Steves would like to prepare some analysis for his parents to see how the stocks
 
 ## Results
 In our analysis in All stocks analysis worksheet we can see at a glance that stock market is doing pretty well except TERP. All the other tickers are higher than zero percent return ranging from 5.5 to 199.4 percent, which the highest for DQ.The code ran in 0.171875 seconds. Please refer below for image:
-
+![VBA_Challenge_2017](https://github.com/KANIKOLIJI/kickstarter-analysis/blob/main/resources/Outcomes_vs_Goals.png)
 Also, for 2018 we can see that stock market waas not successful overall. There are two tickers such as ENPH, and RUN, which where over 80 percent. The rest of backers were all less than zero. This code ran in 0.1796875 seconds. You may see in details in below image:
 
 ## Summary
