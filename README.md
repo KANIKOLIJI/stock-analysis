@@ -16,3 +16,5 @@ Analyzing stocks of 2017 and 2018
 ![VBA_Challenge_2018](https://github.com/KANIKOLIJI/stock-analysis/blob/main/Resources/VBA_Challenge_2018.PNG)
 
 ## Summary
+* every time we refactor a code, we could save some time to reuse some parts of the previuos code. This helps us to save so much time. We may just change some parts to make it work for our new challenge. 
+* Refactoring a code is not always easy, as we may ran into some problems that we need to debug as we may forget to change a part and that gives us the error for entire program. Attention to details is crucial in refactoring a code. Having a road map or studocode can be very helpful, and let us go line by line.
